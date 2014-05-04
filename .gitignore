@@ -1,0 +1,7 @@
+# Ignore Fonts
+Fonts/
+
+# Ignore System Files
+.DS_Store
+*.esproj
+*.sublime-*
